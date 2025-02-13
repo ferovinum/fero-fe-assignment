@@ -1,0 +1,46 @@
+{
+  "stocks": [
+    {
+      "id": "77a5",
+      "type": "wine",
+      "price": 100,
+      "date": "2023-01-01",
+      "quantity": 100,
+      "client_id": "111b"
+    },
+    {
+      "id": "11af",
+      "type": "whisky",
+      "price": 200,
+      "date": "2023-02-01",
+      "quantity": 10,
+      "client_id": "111b"
+    },
+    {
+      "id": "asf1",
+      "type": "wine",
+      "price": 50,
+      "date": "2023-03-01",
+      "quantity": 200,
+      "client_id": "222d"
+    },
+    {
+      "id": "59c3",
+      "type": "whisky",
+      "price": 150,
+      "date": "2023-04-01",
+      "quantity": 20,
+      "client_id": "222d"
+    }
+  ],
+  "clients": [
+    {
+      "id": "111b",
+      "name": "John Doe"
+    },
+    {
+      "id": "222d",
+      "name": "Jane Smith"
+    }
+  ]
+}
